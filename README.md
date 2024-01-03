@@ -1,8 +1,8 @@
-<h1 align="center">Francesco Calicchio</h1>
-<h3 align="center">Computer Science Student - University of Camerino 🎓 · Mobile Developer 📱</h3>
+a<h1 align="center">Francesco Calicchio</h1>
+<h3 align="center">Computer Science Student - University of Camerino 🎓 · Software Engineer 📱</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif">
 
-- 🔭 I’m currently **Freelancing**
+- 🔭 I’m currently **Freelancing as Mobile Developer**
 
 - 📫 How to reach me **francescocalicchio@hotmail.com**
 
