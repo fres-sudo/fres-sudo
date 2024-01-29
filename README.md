@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **francescocalicchio@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/francesco-calicchio-a3a1b3201/](https://www.linkedin.com/in/francesco-calicchio-a3a1b3201/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/francesco-calicchio](https://www.linkedin.com/in/francesco-calicchio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
