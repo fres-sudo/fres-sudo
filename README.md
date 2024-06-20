@@ -1,5 +1,5 @@
 <h1 align="center">Francesco Calicchio</h1>
-<h3 align="center">Computer Science Student - University of Camerino 🎓 · Software Engineer 📱</h3>
+<h3 align="center">Computer Science Student - University of Camerino 🎓 · Software Developer 📱</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif">
 
 - 🔭 I’m currently **Freelancing as Mobile Developer**
