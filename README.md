@@ -2,20 +2,20 @@
 <h3 align="center">Computer Science Student - University of Camerino 🎓 · Software Developer 📱</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif">
 
-- 🌎 My [space](fres.space)
+- 🌎 Visit my <a href="https://fres.space" target="_blank">space</a>
 
 - 🔭 I’m currently **Freelancing as Mobile Developer**
 
 - 📫 How to reach me **francescocalicchio@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/francesco-calicchio](https://www.linkedin.com/in/francesco-calicchio)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/francesco-calicchio){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/francesco-calicchio-a3a1b3201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco-calicchio-a3a1b3201" height="30" width="40" /></a>
-<a href="https://fb.com/francesco.calicchio.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francesco.calicchio.73" height="30" width="40" /></a>
-<a href="https://instagram.com/@aka_fres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aka_fres" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fres" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/francesco-calicchio-a3a1b3201" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco-calicchio-a3a1b3201" height="30" width="40" /></a>
+<a href="https://fb.com/francesco.calicchio.73" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="francesco.calicchio.73" height="30" width="40" /></a>
+<a href="https://instagram.com/@aka_fres" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@aka_fres" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fres" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fres" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
