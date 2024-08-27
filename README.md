@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **francescocalicchio@hotmail.com**
 
-- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/francesco-calicchio){:target="_blank"}
+- 📄 Know about my experiences on <a href="https://www.linkedin.com/in/francesco-calicchio" target="_blank">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
