@@ -4,7 +4,7 @@
 
 - 🌎 Visit my <a href="https://fres.space" target="_blank">space</a>
 
-- 🔭 I’m currently learing **SvelteKit** and other web technologies
+- 🔭 I’m currently learing **SvelteKit**.
 
 - 📫 How to reach me **francescocalicchio@hotmail.com**
 
