@@ -6,6 +6,5 @@
       <li>🧙‍♂️ Hi folks! I’m a Software Engineer from Italy, passionate about open source.</li>
       <li>🟣 Previously worked as Software Engineer Intern @ <a href="https://odoo.com" target="_blank">Odoo</a>.</li>
       <li>➡️ Visit <a href="https://fres.space" target="_blank">my space</a> to learn more about me.</li>
-      <li>✳️ Creating <a href="https://github.com/fres-sudo/buildstuff" target="_blank">buildstuff</a>, an open-source project management app for solo devs and small teams.</li>
       <li>💭 Connect with me on <a href="https://x.com/shelovesfres" target="_blank">X</a> or <a href="https://www.linkedin.com/in/francesco-calicchio/" target="_blank">LinkedIn</a>.</li>
 </ul>
