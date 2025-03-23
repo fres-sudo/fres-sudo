@@ -1,5 +1,5 @@
 <h1 align="center">Francesco Calicchio</h1>
-<h3 align="center">SWE @ Odoo 👾 CS @ Unicam 🎓</h3>
+<h3 align="center">SWE 👾 CS @ Unicam 🎓</h3>
 <img align="right" alt="Coding" height="300" src="https://media4.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif">
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
