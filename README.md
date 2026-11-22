@@ -1,12 +1,12 @@
 <h1 align="center">Francesco Calicchio</h1>
-<h3 align="center">Mobile Engineer 👾 ICT Solution Architect @ Unipi 🎓</h3>
+<h3 align="center">Software Engineer 👾 Mobile · Open Source · Product</h3>
+
 <img align="right" alt="Coding" height="300" src="https://media4.giphy.com/media/3o6fJ5z2bgCLBshZUA/giphy.gif">
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
-      <li>🧙‍♂️ Hi folks! I’m a Software Engineer from Italy, passionate about open source.</li>
-      <li>🟣 Currently consulting as Mobile Engineer @ <a href="https://accenture.com" target="_blank">Accenture</a>.</li>
-      <li>💸 Previously contributed to @ <a href="https://github.com/RIP-comm/sossoldi" target="_blank">Sossoldi</a>, open source Flutter app.
-      <li>🟣 Previously worked as Software Engineer Intern @ <a href="https://odoo.com" target="_blank">Odoo</a>.</li>
-      <li>➡️ Visit <a href="https://fres.space" target="_blank">my space</a> to learn more about me.</li>
-      <li>💭 Connect with me on <a href="https://x.com/shelovesfres" target="_blank">X</a> or <a href="https://www.linkedin.com/in/francesco-calicchio/" target="_blank">LinkedIn</a>.</li>
+  <li>👋 Software Engineer from Italy, passionate about building products and open source.</li>
+  <li>📱 Mobile engineering with Flutter, Kotlin & Swift.</li>
+  <li>🏦 Currently working as a Mobile Engineer @ Accenture.</li>
+  <li>🎓 MSc Computer Science @ University of Pisa.</li>
+  <li>➡️ <a href="https://fres.space">fres.space</a> · <a href="https://x.com/shelovesfres">X</a> · <a href="https://www.linkedin.com/in/francesco-calicchio/">LinkedIn</a></li>
 </ul>
